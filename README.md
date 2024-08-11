@@ -1,12 +1,3 @@
-Here's a README file for the "Go Corona" game based on the provided screenshots and the context:
-
----
-
-# Go Corona
-
-![Go Corona Gameplay](./GamePlay.png)
-![Game Over Screen](./GameOver.png)
-
 ## Overview
 
 "Go Corona" is a simple yet engaging 2D arcade-style game built using Python and the Pygame library. In this game, the player controls a doctor who shoots vaccines to eliminate coronavirus icons on the screen. The goal is to achieve the highest possible score before the viruses reach the bottom of the screen, which results in a "Game Over."
@@ -53,20 +44,10 @@ python3 main.py
 ## Screenshots
 
 ### Gameplay
-![Gameplay Screenshot](./Screenshot%202024-08-10%20at%2011.12.41%20PM.png)
+![Gameplay Screenshot](./GamePlay.png)
 
 ### Game Over
-![Game Over Screenshot](./Screenshot%202024-08-10%20at%2011.13.53%20PM.png)
+![Game Over Screenshot](./GameOver.png)
 
-## Credits
 
-- **Developer:** Khushi Gauli
-- **Icons and Graphics:** Various sources (Ensure to credit any third-party resources used)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README file provides an overview, installation instructions, gameplay details, and credits for the "Go Corona" game. You can customize it further based on any specific details or acknowledgments you'd like to include.
