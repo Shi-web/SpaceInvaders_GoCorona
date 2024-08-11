@@ -9,7 +9,7 @@ pygame.init()
 screen = pygame.display.set_mode((800, 600))
 
 # background
-background = pygame.image.load('output-onlinepngtools (1).png').convert()
+background = pygame.image.load('BG.png').convert()
 
 # Title and icon
 pygame.display.set_caption("Go Corona ")
