@@ -4,8 +4,8 @@ Here's a README file for the "Go Corona" game based on the provided screenshots 
 
 # Go Corona
 
-![Go Corona Gameplay](./Screenshot%202024-08-10%20at%2011.12.41%20PM.png)
-![Game Over Screen](./Screenshot%202024-08-10%20at%2011.13.53%20PM.png)
+![Go Corona Gameplay](./GamePlay.png)
+![Game Over Screen](./GameOver.png)
 
 ## Overview
 
